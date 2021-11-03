@@ -1,0 +1,22 @@
+/* This is example code. Write your own CSS here */
+
+div.navigation-pane {
+    background-color: black !important;
+}
+
+input.app-search-bar__input {
+    background-color: #191919 !important;
+}
+
+li.navigation-pane__item li.navigation-pane__item--settings {
+    border: 1px white !important;
+}
+
+
+button.button {
+    background-color: black !important;
+}
+
+div.banner {
+    background-color: black !important;
+}
